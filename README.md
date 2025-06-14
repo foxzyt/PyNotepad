@@ -13,6 +13,7 @@ Currently, we have some cool features like :
   -LSP autocompletion.
   -StackOverflow search.
   -Plugin support.
+  -Web emulator.
   -AI-assisted code (Probably)
   -MySQL integration (Probably)
 
